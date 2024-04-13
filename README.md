@@ -1,5 +1,5 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
-### DATE: 
+### DATE: 13/04/24
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
@@ -67,5 +67,7 @@ for result in search_results:
     print("----------------------")
 ```
 ### Output:
+![image](https://github.com/TINESH7023/WDM_EXP6/assets/160113316/c29d2e9d-0020-4d56-933b-3f3e3e73f531)
 
 ### Result:
+Thus to implement Information Retrieval Using Vector Space Model in Python is successfullly executed.
